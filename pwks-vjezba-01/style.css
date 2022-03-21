@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+* {
+  font-family: 'Quicksand', sans-serif;
+}
+
+body {
+  /* fallback for old browsers */
+  background: #2eb9ff;
+
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right, rgba(46, 185, 255, 1), rgba(150, 165, 187, 1));
+
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right, rgba(46, 185, 255, 1), rgba(150, 165, 187, 1))
+}
